@@ -7,4 +7,4 @@ REPORT ysh_test_abapgit2.
 
 WRITE: 'Freitag :D'.
 
-WRITE: / 'Feierabend'.
+WRITE: / 'Feierabend -- NICHT'.
